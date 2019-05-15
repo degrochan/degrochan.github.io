@@ -1,0 +1,14 @@
+<html>
+<head><title>Кино</title></head>
+<body>
+	<table style="width:100%" border:1>
+<tr>
+ <td colspan=3><center>Киноискусство</center>
+	</td>
+</tr>
+<tr>
+ <td width=30%><i> <h1 style"font-size : 12pt; font-family:arial;color:blue">
+	</td>
+</tr>
+</body>
+</html>
